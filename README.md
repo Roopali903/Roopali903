@@ -1,5 +1,5 @@
 - 👋 hi i am roopali 
-- 👀 I’m interested in java
+- 👀 I’m interested in learning new technologies 
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me roopalichaurasia2gmail.com
